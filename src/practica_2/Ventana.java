@@ -51,7 +51,9 @@ public class Ventana implements Initializable {
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
     }
-    
+    public void metod(){
+        
+    }
     
 
 }
